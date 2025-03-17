@@ -1576,10 +1576,42 @@ section.Project-Highlights {
   .location-slider-content .table>tbody>tr>td {
     font-size: 13px;
   }
-
+  .Masterplan-inner li {
+    font-size: 14px;
+}
+.conent-div p {
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  line-height: 30px;
+}
+.footer-left p {
+  font-size: 14px;
+}
+.Masterplan-conent h3 {
+  font-size: 25px;
+  line-height: 30px;
+}
+.first-cont p {
+  font-size: 14px;
+}
   .conent-div a {
     font-size: 25px;
   }
+  .luxury-redefined-wrapper h3 {
+    font-size: 30px;
+}
+.headeing h2 {
+  font-size: 30px;
+}
+.location-seo-wrapper h2 {
+  font-size: 35px;
+}
+.feature-section h2 {
+  font-size: 35px;
+}
+.faq-main h3.sub-heading {
+  font-size: 35px;
+}
 }
 
 @media screen and (max-width: 375px) {
