@@ -1579,6 +1579,10 @@ section.Project-Highlights {
   .Masterplan-inner li {
     font-size: 14px;
 }
+section.banner-section-mob {
+  display: block;
+  padding: 0 10px;
+}
 .conent-div p {
   font-size: 16px;
   letter-spacing: 0.8px;
