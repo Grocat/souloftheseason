@@ -1275,7 +1275,23 @@ section.banner-section {
 section.banner-section-mob {
   display: none;
 }
-
+a.menu-link {
+  top: 50%;
+  position: fixed;
+  right: -45px;
+  transform: rotate(-90deg);
+  background: #fff;
+  color: #154E36;
+  padding: 10px 20px;
+  font-weight: 500;
+  border-radius: 10px 10px 0 0;
+  z-index: 999;
+  text-align: center;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: 1px solid #154E36;
+  font-family: 'Poppins-SemiBold';
+}
 /* gallery section */
 @media screen and (max-width: 2000px) {}
 
@@ -1503,7 +1519,18 @@ section.banner-section-mob {
   .site-identity img {
     width: 130px;
   }
-
+  a.menu-link{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: auto;
+    transform: rotate(0deg);
+    width: 100%;
+    text-align: center;
+    border-radius: 0;
+    z-index: 9999;
+}
   ul.footer-links {
     padding: 0;
     margin: 0;
