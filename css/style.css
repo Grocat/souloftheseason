@@ -1529,7 +1529,8 @@ a.menu-link {
     width: 100%;
     text-align: center;
     border-radius: 0;
-    z-index: 9999;
+    z-index: 9999;  background: #154E36;
+    color:#fff ;
 }
   ul.footer-links {
     padding: 0;
