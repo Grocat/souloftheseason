@@ -1519,6 +1519,9 @@ a.menu-link {
   .site-identity img {
     width: 130px;
   }
+  .first-cont {
+    padding: 40px 10px;
+}
   a.menu-link{
     position: fixed;
     bottom: 0;
