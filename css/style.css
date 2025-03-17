@@ -1113,16 +1113,19 @@ section.banner-section {
   float: right;
   margin-top: 5%;
 }
-
-.banner-form h2 {
+.banner-form h2, 
+.banner-form-mob h2 {
   font-size: 25px;
   font-family: 'ScheherazadeNew-SemiBold';
 }
-.banner-form p {
+
+.banner-form p, 
+.banner-form-mob p {
   font-size: 16px;
   color: #1B1B1B;
   font-family: 'Poppins-Regular';
 }
+
 
 .form-group {
   margin-bottom: 15px;
