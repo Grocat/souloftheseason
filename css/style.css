@@ -1162,6 +1162,7 @@ section.banner-section {
   border-bottom: 1px solid #B8BFB68C;
   color: #1B1B1B !important;
   font-family: 'Poppins-Regular';
+  background: #fff;
 }
 
 .form-text {
@@ -1316,8 +1317,10 @@ a.menu-link {
     width: 20px;
     height: 20px;
   }
+  .banner-section {
+    height: 80vh;
 }
-
+}
 @media screen and (max-width: 1200px) {
   .feature {
     padding: 4px;
