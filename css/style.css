@@ -1159,7 +1159,7 @@ section.banner-section {
   font-size: 16px;
   border: none;
   background: none;
-  border-bottom: 1px solid #B8BFB68C;
+  border: 1px solid #B8BFB68C;
   color: #1B1B1B !important;
   font-family: 'Poppins-Regular';
   background: #fff;
