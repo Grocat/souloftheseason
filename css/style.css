@@ -189,6 +189,7 @@ section {
   border-radius: 5px;
   font-size: 20px;
   font-family: "ScheherazadeNew-SemiBold";
+  transition-duration: 1s;
 }
 
 .site-navigation a:hover {
@@ -1238,6 +1239,7 @@ section.banner-section {
   font-family: FiraSans-semibold;
   padding: 15px 20px;
   background: #154E36;
+  transition-duration: 1s;
 }
 .project-btn a:hover{
    color:#154E36;
