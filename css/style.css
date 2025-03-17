@@ -729,6 +729,7 @@ h3.faq-question {
 /* blog seection end */
 .blog-section {
   margin-bottom: 25px;
+  display:none;
 }
 
 .blog-header {
@@ -1281,7 +1282,7 @@ section.banner-section-mob {
 a.menu-link {
   top: 50%;
   position: fixed;
-  right: -45px;
+  right: -50px;
   transform: rotate(-90deg);
   background: #fff;
   color: #154E36;
