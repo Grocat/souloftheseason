@@ -1118,7 +1118,12 @@ section.banner-section {
   font-size: 25px;
   font-family: 'ScheherazadeNew-SemiBold';
 }
-
+.banner-form-mob {
+  padding: 10px;
+  border: 1px solid #0E5C2F;
+  border-radius: 10px;
+  margin-top: 10px;
+}
 .banner-form p, 
 .banner-form-mob p {
   font-size: 16px;
