@@ -1244,7 +1244,15 @@ display: none;
   }
 }
 
-@media screen and (max-width: 1300px) {}
+@media screen and (max-width: 1300px) {
+  .luxury-features {
+    padding: 15px;
+}
+.feature img {
+  width: 20px;
+  height: 20px;
+}
+}
 
 @media screen and (max-width: 1200px) {
   .feature {
