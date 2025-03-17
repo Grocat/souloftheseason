@@ -1230,7 +1230,9 @@ section.banner-section {
   background: #154E36;
   width: 330px;
 } */
-
+.project-btn {
+  transform: translateY(20px);
+}
 .project-btn a {
   color: #fff;
   font-family: FiraSans-semibold;
