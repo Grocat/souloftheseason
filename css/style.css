@@ -1688,6 +1688,9 @@ a.menu-link {
     letter-spacing: 0.8px;
     line-height: 30px;
   }
+  .project-btn a {
+    padding: 10px 5px;
+}
 
   .footer-left p {
     font-size: 14px;
