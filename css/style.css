@@ -1685,7 +1685,10 @@ a.menu-link {
   .location-slider-content .table>tbody>tr>td {
     font-size: 13px;
   }
-
+.first-cont h2 {
+    font-size: 40px;
+    line-height: unset;
+}
   .Masterplan-inner li {
     font-size: 14px;
   }
