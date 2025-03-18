@@ -1756,4 +1756,8 @@ a.menu-link {
 
 }
 
-@media screen and (max-width: 320px) {}
+@media screen and (max-width: 320px) {
+	.site-header {
+        padding: 10px;
+    }
+}
