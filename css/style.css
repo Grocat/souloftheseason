@@ -1743,6 +1743,9 @@ a.menu-link {
   .faq-main h3.sub-heading {
     font-size: 35px;
   }
+	.site-header {
+        padding: 20px;
+    }
 }
 
 @media screen and (max-width: 375px) {
@@ -1750,9 +1753,7 @@ a.menu-link {
     width: 100px;
   }
 
-  .site-header {
-    padding: 10px 15px;
-  }
+
 }
 
 @media screen and (max-width: 320px) {}
